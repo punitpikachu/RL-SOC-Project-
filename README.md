@@ -19,7 +19,7 @@ Pygame is a set of Python modules designed for writing 2D games. This allows you
 
 ### Object Oriented Programming (OOP)
 
-- It is defined as a programming model that uses the concept of objects which refers to real-world entities with state and behavior
+- Object-Oriented Programming (OOP) is a programming paradigm that organizes code around objects, which are instances of classes—blueprints that define the data (attributes) and behavior (methods) of those objects.
 - Understanding the difference between Procedural-Oriented-Approach and Object-Oriented-Approach
 
 **Core Concpets of OOP**
